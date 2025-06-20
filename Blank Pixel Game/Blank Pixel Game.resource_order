@@ -1,0 +1,7 @@
+{
+  "FolderOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"knight_walk_left","order":1,"path":"sprites/knight_walk_left/knight_walk_left.yy",},
+    {"name":"knight_walk_right","order":1,"path":"sprites/knight_walk_right/knight_walk_right.yy",},
+  ],
+}

@@ -35,11 +35,17 @@
   },
   "name":"Blank Pixel Game",
   "resources":[
-    {"id":{"name":"BeepBox_Song__1_","path":"sounds/BeepBox_Song__1_/BeepBox_Song__1_.yy",},},
+    {"id":{"name":"player","path":"objects/player/player.yy",},},
+    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"knight_idle","path":"sprites/knight_idle/knight_idle.yy",},},
+    {"id":{"name":"knight_walk_left","path":"sprites/knight_walk_left/knight_walk_left.yy",},},
+    {"id":{"name":"knight_walk_right","path":"sprites/knight_walk_right/knight_walk_right.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
-  "RoomOrderNodes":[],
+  "RoomOrderNodes":[
+    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+  ],
   "templateType":"game",
   "TextureGroups":[
     {"$GMTextureGroup":"","%Name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","customOptions":"","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"name":"Default","resourceType":"GMTextureGroup","resourceVersion":"2.0","targets":-1,},
